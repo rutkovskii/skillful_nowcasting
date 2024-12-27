@@ -8,13 +8,13 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="dgmr",
-    version="1.3.4",
+    version="1.4.0",
     packages=find_packages(),
     url="https://github.com/openclimatefix/skillful_nowcasting",
     license="MIT License",
     company="Open Climate Fix Ltd",
-    author="Jacob Bieker",
-    author_email="jacob@openclimatefix.org",
+    author="Jacob Prince-Bieker",
+    author_email="jacob@bieker.tech",
     description="PyTorch Skillful Nowcasting GAN Implementation",
     keywords=[
         "artificial intelligence",
